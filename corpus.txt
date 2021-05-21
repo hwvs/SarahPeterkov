@@ -1,0 +1,1791 @@
+anyone manage to solve a captcha in a robot browser with an anti captcha service?
+I'm filling the form, clicking play now, the captcha pops up, then I call anticaptchas function to solve, it says its solved but the widget is still there on the page asking to either skip or verify
+I tried some bs "fuck captcha" port of stealth captcha
+idk if it is doing anything
+maybe i need to inject the gcaptcha response somehow
+any recommendations for obfuscation?
+Gold is already up 15%... I am betting it will hit one dollar 1 mil
+> lol gold .53/m
+there is currently no solution to bypass incapsulas methods, think of it like cloudflare
+almost all profitable botting is based on mass account creation, hence 150k accs banned a day
+and 400k usd market cap daily from suciding
+the data and models show that...
+jagex have an army of chinese and indians manually screening accounts, and several jmods too
+they are...
+but they work for sub 1usd per hour
+and the jmods like weath are on 15k
+and have no education higher than highschool
+the cutoff for confirmed retard is basically MSc or above
+its especially pronounced in a technical area like CS or bot detection
+though they had a phd team build their current anti bot
+Master of Science
+they paid 3rd party team of Phds to build out their dashboards
+now indian/chinese/weath operate those dashboards
+the back...
+the front is trivial
+the functionality of the dashboards
+its still british run....
+they won't say anything bad about china but also won't actively shill for them
+possibly to shield it from Chinas anti gambling laws
+40m USD... irs come for you at 10k,
+The chinese govt has succesfully gone after thousands of illegal gambling operations, even those with western bases. they arrest their employees on soil and put them in labor camps/beat/rape them and freeze the overseas assets (confiscate them). A ton of Australian casinos trying to run jagex style online casinos got caught in 2018
+There are a ton of chinese casinos and gamblers using osrs as a casino/chips, if the govt there catch them they will be black bagged. They absolutely do care, the money is enough, but its ideological
+any solution to incapsula yet?
+plz solution
+I have resorted to legacy setup and hacks after three days trying to break it
+I have managed to accidentally beat captcha itself saving me a ton on anticaptcha, but my solution is unstable and I have no real way around incapsula with a stable solution
+> You didn’t beat captcha, they just removed it from the acc creation unless jagex doesn’t like you
+you could in theory do 100b a day because there is infinite water and infinite jugs, but you would probably get your mules banned after they trace the entity poisions
+My normal method was trigging captcha 100% of the time, and I was running it throughh anticaptcha
+making by hand triggers captcha after 50 or so accounts
+my new method is doing several thousand a day without a single captcha
+try jugs on a pvp world with 100 or so accounts....
+> You should find a discord targeted to bot farms, this is more for reverse engineering
+reverse engineering is not limited to cs100 java
+incapsula is owned by imperva, an anti ddos firm...
+they have hundreds of layers across different products, incapsula is a suite of some of them, any whatever jagex has is a custom implementation
+they also probably ganked the roll out according to their company rep I spoke to
+incap are probably taking over or have taken over the world server protection too
+how does this farm work? isn't there a 25 drop item limit?
+what break pattern for passing that trade restriction?
+it seems likely jagex have a flag for excessive play hours... and almost all suicide accounts run indefinitely
+If OSBOT in headless mode is still "rendering" or computing the game environment, is there a way to screen shot this...even whilst its headless?
+I did and they don't know
+its a lower level problem
+well the data is being rendered somehow, so it exists fora  moment, it must be technically possible to screen shot it, or take the pixel data in binary and render that or just interpret the raw binary pixel values
+discord forces me to make a new account every time I close it
+when i close it im not logged in and it asks fora  new account and registration
+I can't
+see thats why they all have the same username...
+right now I even have 4 discord tabs open and each one is a different account
+anyone got a working snippet to create a websocket server in intellij java?
+I have kind of done this part now, but how to integrate the client part with java/OSBOT?
+can anyone help, I'm trying to sort the dictionary, but it will only sort by one side no matter which values I swap around
+like where it says math.floor... this side wont be sorted, but the other side will
+so the values/keys are sorted according to the other side, but not the math.floor side which is what I want
+I add two readings from the loop, then they are paired by adding to a dictionary
+then I want to sort them by one column, but for somereason it only ever sorts the wrong side
+yes in that part
+they need to be in a dictionary, because each value corresponds to its pair, and sorting will jumble those pairs instead of preserving them
+but if I swap their positions when adding to the dictionary, it still doesn't work
+maybe thats it
+even casting the undesired to int and the desired to str it still doesn't sort the desired
+and swapping their position when adding to keys/values
+103954: 832, 120031: 637, 120056: 825, 119754: 521, 119847: 1398, 119817: 613, 119830: 514, 119833: 553, 119965: 504, 119918: 504, 120101: 448
+as the dictionary
+and i need to sort it by the 3 digit values
+its still not working lol
+that small example works
+but then it must be the way that I am adding them or something earlier in the code
+> what about `y = {k:v for k,v in sorted(list(x.items()), key = lambda v: v[1])}`
+matlab is top tier for advanced programming/analysis
+in 48h non stop coding i've managed to get OSbot to connect to a python server socket and then disconnect. Anyone know how I can get it to send information too? like text/values
+basically my headless farm sometimes has problems, so I want to be able to check them and prune, debug with the sockets
+at the moment I'm blind looking at WMI memory values and cpu cycles
+everything online is deprecated, or doesn't work, its strange the osbot devs didn't build something like it into the client itself
+I'm getting pretty close, I've had to write a bunch of hacks for the deprecated socket code and use python to handle the server
+The problem is because I need to run them in headless mode... also its  not botting if you're looking at the screen
+I hacked this into receiving a message, but now it wont send one back to the client
+also should I have a thread constantly running to listen always for socket messages on the client? this seems pretty heavy...? or just poll the server periodically?
+I wanted to see if it was true or not
+or what it was doing
+there are no working libraries for what I'm trying to do
+why json?
+wmi is already integrated into my multi server solution
+> That's what I'm saying. He doesn't know how to send data over socketsl, and says theres no libraries for it. Definitely need to take a step back and go learn about socket programming first. Hell, you could even use web sockets and the many libraries for that
+the syntax you gave me doesnt parse
+if my server is external, and I can see and issue commands, and the bots and legion and headless, should the bots be constantly listening for server commands? is the only way to do this with an extra thread?
+there is a client function? I see that the server is ok with listening
+> i guess you're talking about bots that is in java language, then you should get input stream from socket and read that data.
+i'm wondering if there is a way to constantly read or be alert, ideally without another java thread
+second class
+> im not reading ur code
+all are broken/deprecated/incompatible
+the socket diagram is pretty intuitive
+its the data types that dont have libraries etc
+no one in OSBOT would take 200m osrs to do what I was asking
+> @sarahpeterson dont copy/paste them and expect them to work, understand what the snippets do and apply it to your code
+my code base is already very extensive...
+100k + lines
+I've been using python WMI to externally handle communication by trying to guess the headless bots activities by profiling the jvm
+now with sockts I can eventually ask him exactly what hes doing
+I am also still partially relying on text files for logs and some parameters, which I would like to migrate eventually to dataframes and possibly a database, then I can automatically run linear programming on it
+what buzzwords... those are pretty standard
+I've been generating a ton of data with my farm but storing it in plaintext, and haven't had time to plot it
+linear programming is ML
+I have a plan for a ML bot though, that self learns, and uses a drift diffusion model for activity selection, and a hippocampal grid cell model for navigation and exploration
+I want to create base classes for every possible interaction, then iterate over them then have the bots state generate an error signal for back prop
+I will use the osbot api too, so for example to loop though every widget, and then take the non null and adjust the NN weights
+the non null widget
+against all of the other possible widgets
+say there are 255 widgets, and I find the one that isn't null, I can back prop that and adjust the search tree NN so he moves that widget higher in the list
+it will eventually learn which widget to expect
+Me too sort of
+I think there is a minimum number of nodes in your NN based on the input size, and really osrs doesn't have that many options for dialog/menu/interactions/object names
+you will get caught by jagex and banned
+the NN will approach AGI and be undetectable
+with enough epochs jagex will classify your deterministic bot
+and it won't ever pass the turing test of a jmod personally watching your screen for an hour
+your bots also dont have a language model
+I've had great success with a classical language model
+a j mod investigating you might
+they probably know you're botting but so many are that they need to allow you to
+they just keep tabs to see you don't make too much noise, or gold,
+only really serious farmers get targeted for bans
+after the rev farming /venezuelan wall is gold going back up?
+attaching a profiler to OSBOT jar? why isn't it visible here but jagexlauncher is
+no thats the original client I happen to have open, I checked its pid
+I've managed to attach
+what should I look for to find memory leaks/problems?
+> extremely unlikely that it's his script, unless he's holding millions of unused references
+from jprofiler
+oh wow these options seem new updates
+> @sarahpeterson Are you using 64-bit java or 32-bit java? Moving to 64-bit for me significantly dropped ram usage. Here is where you can get 32-bit Java 11 
+> does anyone here know their shit when it comes to statistics?
+or hover over it and alt enter, then select import etc
+there is an option to import on the fly or something, might help
+can try to add more memory, allow it to use more
+ok so I was right, jagex confirm themselves they use entity poisions 
+At about 3:30 he says the anti cheat team told him they "set something up here" to detect new bots in that specific region
+which I think is flagging the entity on n interactions, so its "poisoned" just like certain water sources
+he has shut down at least one of my farms in the past
+> Okay so let me get this right. Jagex bit detection is nothing more than a bunch of handwritten rules that flag accounts for manual review.
+I saw on the bot busting they were looking at heat maps of the world map and account density
+I think it might have even been across every world, so you can see lots of accounts in one area
+> @sarahpeterson i think it's not like `n interations` but like transparent NPCs or something
+you would see if they were disabling entities to trick you
+and it would only work on monsters that move around... 99% of skills have static objects
+> I assume they have SQL queries that they run daily
+I've yet to see anyone bot 24h on a new account and not get banned at 7am
+is there a way to make java only run on my first 22 cores so that I have some free for multi tasking? I have an option to set affinity in windows but it seems on a per .jar process
+I've lowered the clock from 4.8 max to 3.5 which is its stock, and capped the turbo to very very low, and I'm still at 80 degrees and 95% cpu, I've undervolted too -80mv. Anyone got any ideas to get it lower? It has a h60i AIO water cooler and 2x noctura 120mm/140mm fans. If I uncap the turbo or use the default clock it will 110 degrees and t junction
+I will buy some of this now, thanks
+I did clean some dust and got -10 degrees but still its bios/idle temps are 70 degrees
+can anyone explain why server cpus seem so overpriced and poorer performance than regular desktop ones?
+is it ever cheaper to buy a server to bot osrs than to use a desktop?
+amd is a cheap knockoff
+yes
+I am about to buy lifetime membership too
+what features justify that 5x price increase...? the clock speed is lower, lower pci slots, etc higher power usage.... what on earth more is there?
+in the comparison i posted, that is slower, and still costs more to use, same year and nearly quarter release date too
+more cores... but you could buy 5x 12 cores for the price of one 18...
+How many accounts running on that IP? they sweep from the top down... if you're running sub 10-30 they usually let you pass
+they pull an sql table with accounts per ip
+then go from the top down, table sorted
+the same for new accounts created and playtime
+50 is near the bottom of the list
+the guy usually does a 1h check
+he has to hit 50-100k bans  in that time
+sometimes they double check, and if they are working crunch time they will do every 2h till 17:00 GMT
+its also possible you've been flagged and all are marked for ban, you're just looking at delays to obfuscate their methods
+they said they plug some flags/heuristics in and that builds their chainban protocol
+they also said they delay bans too... so two and two
+it would be much easier to backprop your parameters and reverse engineer their detection vectors if they banned 100%
+pulling a table of data they already have of accounts playing time is the most lowjack thing possible
+and yet can detect 99% of bots
+anyone got a new selenium/chrome fix for the imperva update?
+can anyone help avoid selenium getting blocked by incapsula the moment you try to create an account?
+yes but how
+still getting instantly detected
+sometimes I think I managed to set some cookies/referers by browsing google manually first, but then it catches me when I submit the form
+yes, 10h +
+yes thats where I got all of those from
+it blocks at max resolution too
+and non incognito
+and if I navigate to runescape.com then have selenium click the new account button from there
+incapsula uses fingerprinting
+they have recently ramped up their system too, it looks like it was expensive
+they're 100% detecting my browser is selenium driven too
+I tried a python lib for that and it failed
+i found a 3 year old one but in the comments they say its deprecated
+this one fails too, gets detected
+I will give you mine if you help me bypass selenium detection
+anyone good with technical high iq stuff could have a look here and see if they can figure out how jagex are blocking account creation 
+what is this, I've seen it in the console. And lots of people share things in the community, github is billions of lines of code shared by experts for example
+30k accs is pretty low
+I'm running at capacity, but i'm using a really lowjack two step solution
+its from my legacy system when I was developing the previously working selenium solution
+I'm really curious as to how they are detecting selenium too, many people say they fingerprinted their own browsers, and they show the same as chrome, yet incapsula still detects
+Ok so with my hotloaded selenium chrome driver, and a fresh IP I didn't trigger the incapsula block on the first load, I made three accounts manually without triggering
+then I tried to send the driver.get(url) and this triggered incapsula and perma banned
+I'm thinking I'm IP range flagged, and also wondering about ip ranges, how many unique IPs am I likely to go through before repeating in a normal western mainstream ISP as I force it to change? there are 1000s in my range? millions? I've at least managed to be partially range banned by one major site I was botting but still a few ips I got still worked
+I think they have flagged my email address I've been using
+seems strange, maybe jagex asked them to
+I've just changed my ip and it seems fine without that email being sent but I need more testing
+I've been using the same email for a very large number of accounts, I think they've put a block on it or a flag
+also they're detecting my selenium entering text into a single field, maybe its typing the characters too fast
+this is a new update it seems
+nop
+I am surprised jagex are targeting me so hard
+yet there is a constant wall of pyramid plunder bots 24/7
+the farms in puggers latest video have weeks play time at least and 10 accounts every world... 3k bots non stop and in plain sight
+maybe if enough people report problems with it they will relax the rules, the replier isnt a jmod so he probably doesn't realise its intentional anti bot/ddos
+is there a way to actually calculate the real volume of an osrs item? The GE appears to show both buy and sell counts, so anyone flipping an item for a few gp will inflate the volume....
+like if 1m sharks are fished in a day, but some guys buy them all and resell them 3x over the volume shows 4m
+The GE is just showing "amount traded" on the website... not whether they were bought or sold
+is there a 3rd party site that can track it?
+if one shark is sold to timmy, and timmy sells that shark on the same day to bob, then bob sells that shark to alice on the same day too then the amount traded shows 4 sharks sold
+how do we know how many sharks were entered into the total volume
+instead of just being passed around
+is there an econ way to estimate it?
+hmm actually I guess you could buy an entire days volume
+for vastly over the market price and see when it runs out
+then hold those positions for the next day
+you would get a good estimate, even just one hour of organic selling could be used to estimate it, or just hold long enough to buy out the merchants reserves
+doesn't this also still double count for merchers...
+in java is it better to have a second thread constantly running or to call it to start just before its needed then terminate it afterwards? Will I experience performance problems constantly stopping and starting a second thread?
+by averaging it over time
+hoarding wouldn't affect the volume over the really long term
+since they would eventually have to feed it back in
+if they keep it forever then its meaningless anyway
+still no public solution
+few of the farm managers claim to have one but no proof
+yes imperva has detected chromes selenium
+they are also flagging/fingerprinting your inputs
+so randomise those too
+they flag and tag IP's also and pass to jagex for Acc tracing also
+I've seen that and tested a bunch of patched drivers, and even manually edited the source code of the driver
+I have noticed when it flags and blocks you even on a legit browser, that clearing the cookies /cache in that scenario unblocks
+in my latest try at cracking selenium detection, on a fresh IP. It seems the browser isn't being detected until you use the driver
+if you make a single call it looks like that is detected, even just reading the email fields address but not entering anything
+they seem to have me in an infinite loop on a forum link too on the flagged browser
+a few times my captcha workers reported infinite captchas too >5 attempts
+I think also by trying to get to other pages where you can login, that those are also flagged by anti bot/ddos/spam
+seems like they have in one go blocked the people automating account locks but also automated account creation too
+ideas what to set here?
+would it be beneficial to say force clients to run on a single core?
+I've added those exact exceptions to the method at the top
+yet its trying to force me to surround this particular line with try/catch also
+the exceptions it wants me to add are both already in the class and that method too
+I also can't add the surround trycatch because it will break the conditional sleep
+it does this to the method, breaking it
+any ideas?
+Thanks, I've basically solved it by keeping the throw catch and adding a return null, hopefully its meaningless since it will never interrupt anyway
+"doesn’t list those checked exceptions"
+does this mean there is somewhere a method I can add the exceptions to
+the exception is because that method might initiate a file reading
+well call something else that will read a file
+ty
+the idea that you get flagged and banned by an entirely automated system when your bot gets "stuck".... what would they be looking for? in activity? are they somehow logging really repetitive actions like the instruction to the client is the same 1000x in a row?
+there is a sleep method built in, but thats a snippet that provides conditional sleeps, so you can sleep until not animating etc
+it allows to set the polling interval too, great for lowing cpu during sleep
+when I call this and the path is unreachable it throws my script into some kind of infinite fail loop and won't pass it
+any ideas?
+after the game update, sometimes osbot can't load:
+Can any one explain why this happens?
+it's trying to inject something that has moved position?
+is there a way to detect failed hooks in a jvm?
+like by attaching a debugger or something
+is there a python library to send fake mouse movements/keyboard events to a window without running a VM?
+has jagex/imperva range banned/flagged all tor ips?
+even running a tor ip under my "undetected chrome" still gets flagged
+I could try a thousand and change my settings/options to check whats triggering
+is it still possible to do some stuff like tick manipulation, spamming object interactions faster than you're supposed to?
+I did once, I will again at some point
+I've found this on the acc create page
+I'm wondering if its used for detection, or its just standard to allow different devices to navigate the page
+"/**
+and even run macros and instantly fill text boxes
+but if I use selenium it flags me
+the base selenium is instant on a clean ip
+if I add all the usual options and driver mods, google bot header etc then I can fool it until the driver interacts with the page
+I'm running it through a test suite now with a million proxies
+I think they have the tor range on file
+I can also use a computer vision bot but its buggy sometimes and I have to keep recapturing the error messages
+when I have time I will write a full powered OpenCV account creator I think
+hmm what about injecting javascript to fill the form with selenium
+varrok west logs are poisoned btw
+heads up
+all the oaks every world are dead
+less than 30 logs and ban
+there are normally 50 + players at every f2p oak/log spot
+there are two who claim to have one but there is no proof it works and they are behind paywalls
+this is still not proof that either of us have cracked it
+anti captcha spendings on geetests
+you will hit one every 10-20 accounts typically even doing by hand
+yes
+never seen a geeTest before until that recent update
+there is no way its more secure than captcha, but imperva have it integrated with their fingerprinting
+I think they forced jagex to change to it, but in the long run its a wrong move because you can openCV geeTest
+there is no known CV captcha solution
+with >70% success
+they will also geeTest
+two years ago there was a public working Geetest CV
+are jagex tracking you across machines?
+like if you login on a client on one machine, then another, they are detecting it? even on the same ip
+can anyone write javascript? I think an account creator can be made entirely in javascript
+if(document.getElementById('create-submit') !=null){
+the top two fields user and password can be filled by js too
+it just needs a sleep and to be able to loop, looping in chome dev tools seems to crash me though/unsupported
+seems strange they would block selenium...but allow virtually the same element interaction with js
+anyone recommend a huge free proxy list?
+impossible with public algorithms
+anyone know if its possible to use requests/python to load webpages with a sock5 proxy?
+thanks, I've been using this syntax and another option too but both still don't let me load a page or make a request with the socks5 proxy
+I'm wondering if socks5 proxies cannot support http requests
+I got incapsula blocked on one of my servers creating accounts in a clean legit browser
+I cleared private data, relaunched the standard chrome browser, got a fresh clean residential from my legit ISP and was still getting instant block
+only running incognito managed to bypass it... how is that finger printing possible?
+are there some clients/vectors that are able to bot with non socks5 proxies, like http etc?
+or there is something about the java client base that all proxies (except "packet bots") need socks5?
+ty
+anyone know what's going on in this call "java -cp "lib/*" org.osbot.Boot -debug" in a batch file
+I think its not finding the osbot.jar in that same folder
+because taking it out makes no difference to the error
+thanks, I'm using this guide 
+and it says just to make a folder on the desktop and add the osbot jar, the sql driver
+then make a bat file with that command
+yes
+still nothing
+but I tried replacing the java path with the path to osbot and it launched
+but the test script won't find the driver
+so probably that hasn't worked
+java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/big_league?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+it was actually that I didn't have the path set right
+thanks
+now I am crashing osbot client out with
+any ideas whats going on?
+yes OSBOT, and I've hit that permissions before, but i've put the library in the data folder, and also the guide i am following is on the OSBOT website, and many people there report it working back in 2018
+it is all caps officially
+does org.osbot.tA.checkPermission(lz:181) mean that osbot is actively blocking it
+hey so I got a script working that can post/get request my webapp server in flask
+my plan is to read that line there, the end of the url and parse it into the parameters I want to enter into sqlite
+how do I read that text... ? something internal to flask is printing it out but I can't figure out what so I can print it and handle it myself
+yes
+the highlighted string
+I'm also sure this is a hack way of connecting bot>sql but it should work
+ok but how do I make flask read that...?
+@app.route('/',methods = ['POST', 'GET'])
+this needs to go in my java url?
+ok so if I wanted to write stuff in there to pass... it wont work because id need to have a path with that already there?
+the server can read whatever I am sending it
+I just need to parse those strings surely
+the data I want to write can be all contained in a single string
+then parsed with python
+and inserted into sql
+for me the simpler and quicker the better
+posting to this String url = "";
+should be read by :@app.route('/',methods = ['POST', 'GET'])
+it does nothing either way
+whether I put all that url or just a /
+ok I managed to get it to print hello world
+I am listening
+I think its broken where I write the post data in java
+the copy paste I found isn't being registered by the flask server
+so far only getting a status code has worked
+do I just need a generic POST ...?
+yes
+I think this needs to be used to write the post form
+I have done it now, thanks anyway
+well just now after fixing some parsing errors I have successfully sent my username + world to my SQL server and had it generate a unique ID primary key and timestamp for the entry
+I want to make two tables, one to monitor online accounts, and another for mass logging parameters etc so I can run datasci/ML models on it
+I am wondering I suppose I should use update for the online acc tracker
+and try to generate a unique identifier for the account, so I can remove his record if he gets banned
+or maybe use his username
+I make the http post request, then parse the dictionary and generate an SQL statement that is trigged on receiving a post in flask
+maybe I will create a procedure and if he hasn't been updated after 1-2h then remove/mark dead
+Well I need to have the client post to the database, I was thinking once an hour was good enough
+and just to make sure I don't delete a guy who is online, wait and check every 2h
+It was difficult, months ago I tried to get sockets to work but failed, yesterday I tried with apache/xaamp and mysql but I couldn't get it to work, osbot guys say the permission isn't blocked but I gave up
+writing log data every 3 minutes seems pretty intense, one of my basic text logging has a short interval
+at some point I will try and learn something from it
+I know how what to do... its just getting the syntax right
+I know what the path is
+but not how to read/write to flask with it
+thats just a syntax/api problem
+theory>everything else
+architects are more important than brick layers
+an architect can design a palace, but not know how to lay individual pipes
+theory is much more important
+well no, he will pass the specification on to a pipe specialist who knows the piping syntax
+the president of the USA has 3,000,000 people working under him
+its unrealistic to expect him to know exactly how to do every departments work
+I have actually built the working system... it just took a while because I'm new to flask/web server apis and the syntax for sqlite
+now I am integrating it into my bot
+I have a log file with  timestamps, then each account online per line in a text file
+like 2021-04-05 22:57:59
+then acc
+then acc
+then the 2021-04-05 22:58:60
+yes but this is the data I logged from the past year or so
+before I made that database
+I read it into a list
+but there is a logic problem, I want to count the number of lines inbetween each date/timestamp
+so I get a tuple, with a datetime stamp and the number of lines that was between that and the previous
+I think I can loop over each entry and mark the index of the timestamps
+then calculate the difference between the current index and the next index marked, then write the stamp at the index and the difference into a tuple
+then I could feed the tuples into a time series NN
+the datetime in this particular log isn't attached to specific accounts
+it more a track of farm size over days and months
+by the interval my manager polls the servers
+I also have individual timestamps and logs for accounts
+how can I display large numbers of points
+I don't really want to average because it will lose a lot of the data
+can anyone give me a rough idea of how intensive http requests are, say if you have many clients making requests over the same network... when would it start to be a problem? and how about a web server, I am using a flask which warns "not for production"...
+hardware/resource intensive
+at what rate is a home solution going to start having problems
+with i/o
+100 or so requests at minute level intervals... is this high usage? Do webservers like flask auto handle requests like that from so many
+when would it start to be a problem for a domestic user?
+but at what volume of requests
+?
+even long response times are fine for my usage
+also when would you expect high resource usage from high volume requests, like cpu util/ram/i/o
+bandwith on local net is 1gbps.....
+the router has a limit
+and the cables
+multi threadding in python isn't real
+and my solution is in python
+there is no real way to make 100 req a second in python
+python threadding isn't real
+had a call from ibm earlier
+a url string with sql entry values
+its all local
+a few servers
+but one router
+I needed to write out from osbot
+and they have many restrictions
+so flask server was working
+with apache and postres sql it seemed blocked
+I hit permission errors in log
+also. I have a strange problem
+I am teamviewering into a remote machine, physical and running a macro on it
+but when I close teamviewer it is breaking my macro, it runs but no longer registers the windows env
+I tried to run the macro, compiling it to an exe, then subprocessing it in python
+but this fails
+I am basically running an account creator with the aid of a macro on a remote machine
+but it breaks if I close teamviewer, and terminates if I end a RDP
+is there a solution short of writing out a full pyautogui and subprocess piping that to the machine?
+windows
+on all machines
+on teamviewer sometimes I can keep it active
+as a workaround, but if I get Ip range banned/blocked and need to reconfigure my machine then I have problems again
+rdp does all sorts of things when you close/exit that teamviewer doesn't and vnc viewer needs to be configured
+osbot is great
+most of the dev upkeep is outsourced
+In the first month or two I cleared the lifetime sponsor fee
+also is there a public incapsual crack/fix
+?
+there is a guy on github maintaining undetected chromedriver, but he is still detected by osrs's incapsula flavour
+but somehow not by impervas home domain
+you can write scripts to automatically monitor and handle your bots
+you should have the bots deployed then a central executive function that manages them at a high level
+then if that hits an exception it will notify you by email
+if you code that in python its quite easy to reply to the email and have the exec function parse your email and perform specific subroutines to fix those problems it couldn't auto handle
+your email is likely already linked to your mobile/smart watch and other devices
+there are lots more fields and timestap/data that you can use too
+you can even send patching instructions through email to your bot manager to have it patch and recompile a script with a snippet
+can anyone advise, I'm trying to run analysis on a log file, its a long list of entries separated by line: with a timedate stamp at the top:
+like this: timedate
+accname
+acc name
+etc...
+timedate
+I want to run a loop to count those inbetween each timedate
+and also does anyone know a way to easily plot 500k points on a plot in python
+actually about 10,000
+with a time series, so they will be marked using that standard timedate stamp  like 2021-04-23 04:34:14
+for the first part, I basically need to count the number of elements inbetween two delimiter elements in an array
+I think I can loop over the array and increment a counter if the value is not equal to the delimiter, then if it is, store that value in a new array that stores the counts
+ok so I should store this count with a tuple of the time stamp
+how to plot this time sieries?
+nvm think I have done it
+my flask server is listening on my local machine where its hosted on 
+on my remote servers trying to connect through that is failing, of course because its running here locally
+is there an obvious way to have them all connect to the same?
+nvm solved by setting flask to listen on 0.0.0.0 and connecting to my localmachines ip
+is there any point to registering accounts?
+also jagex wiped 1k + of my accounts that haven't been logged in
+someone has manually looked at them and chain banned them for being created
+anyone got any data/insight into clicking verify in the email you get when you create an account?
+I'm trying to setup discord webhooks and its throwing "java.lang.NoClassDefFoundError: org/json/JSONObject
+i'm in intellij and the json library is added to the project already
+how to add this in intellij?
+no just default intellij
+runtime
+neither
+just intellij
+in this a guy shows manually extracting the classes from json library
+I think I need to do something similar but with intellij
+so i should add that jar as a library and dependency in intellij project structure?
+thanks, seems like dragging and dropping worked
+what are most all in one farm managers written in?
+can you get your bots to read discord messages/instructions
+also is there a basic guide and open source /skeleton for building your own client?
+LINK?
+whats your github?
+does anyone know what encoding jagex uses for their strings in interfaces?
+I notice I can't read in numbers, but with utf 8 I can get better results
+its still missing a ton of information though
+using osbots .getmessage from the widget
+when i write that string to the log it prints perfectly in the client
+when I try and send it via discord webooks
+its scrammbled
+and looks like its not properly encoded
+writing with osbots default log
+I think its a wrapper for sys out
+if (MethodProvider.getWidgets().get(383, 3, i).getMessage() != null) {
+now this toSave variable
+is scrammbled when sending
+but it prints fine in the log
+that code is reading widget text into a variable
+in osbot its log(toSave)
+i think log is just a sys out wrapper for osbots client
+thats to send to discord
+so maybe its where the encoding is failing
+it was in particular omitting line spaces, and numbers
+I think I need to force the variable to utf8 somewhere in the discord snippet
+where do I set the encoding? in the IDE? on the script?
+BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(con.getOutputStream()), Charset.forName("UTF8")));
+aha
+thanks
+there is no known selenium crack, but it is possible to crack their overall solution, there was also a bruteforce way of rotating through proxies and firing one request from each
+they are detecting all selenium drivers and puppeteer when they execute on the page, also in combination with fingerprinting/cookies
+in the past some said that it was needed to properly handle the cookie they set but I think it's still blocked
+last time I tried this and the other incapsula crackers they all failed on the RS website, possible they have a custom solution. Also requests seem to get detected and blocked also
+When they first threw up incapsula it would only detect requests/selenium after the first request/account created
+then flag your ip and auto block on all
+so you could rotate through proxies and hit with a fresh request each time
+I have since cracked it but can't share except for a large amount of osrs gold or something because it took me months
+there is also no other public solution
+some bot farms claim to have an integrated working solution but idk
+make an offer
+I'm trying to add elements from a list to another list
+res = null;
+on a list operation...
+I think targetItems.add(res.get(i));
+as far as I know I have an array list of strings....
+and I'm trying to add each one one by one to a new array
+In python I would just use "list"
+but in java I am guessing the array type
+because there are many
+I didn't copy...
+I wrote as I would in python
+then adjust the syntax
+I'm 99% its taht line I posted
+because it prints MethodProvider.log("Adding first res item");
+targetItems.add(res.get(i));
+res is just a list of strings
+I split a complete string by the newline char
+then store in a string list
+then iterate over those
+it is "null"
+but the string null
+which its supposed to be
+the first two elements are strings of the text "null"
+but thats ok
+some of the string elements are the plaintext null
+they should be able to be appended to the list...
+unless "null" is a keyword or something in java
+"null" is just a string
+like "fdsfds"
+in this context
+not the null like normal in java
+the ide made me initialise that list as null
+aha
+in python to init a list...
+newlist()
+or interpreted
+with no init
+yes Ik, thanks
+it works now
+it was that I initialised the list by making the list null
+then tried to add something to it
+most languages you initialise it so its ready to be appended to so its faster
+also does anyone have a skeleton/starter kit for an opensource bot client?
+but these are just clients... for playing
+I am looking for full access/modding on the source code
+mixin?
+is that c++ client out and opened up?
+it was 1+ year of a datascience project
+and I didn't claim to have completely reversed it
+just extracted some actionable insights
+and modelled it
+at abstraction
+professional
+yes for my bot farm
+opencv is really compute intensive and unreliable
+I am thinking the solution is to log interactions
+and feed them into a probabilistic optimisation system, a kind of wide neural network
+so the final bot can read the input vector of entity states determined by pixels from a single image and return click positions
+client detection isn't the final problem
+ultimately you will need to mimic the human interaction to fool even manual reviews
+this kind of complex function could be captured by neural network model
+an undetected client will still be banned by the human team they have
+they could table join based on your interacts and account creation date
+that would pull your accounts even though you made them on proxies
+well if you made the accounts 1 month apart then it wouldn't
+they regularly ban 1000s of my accounts that have never been logged in
+through profiling
+and a guy manually using his neocortex module
+maybe if you're really staggering them and spreading across a wide proxy base
+at a cost I presume, some rotational/residential proxy service
+for me its not worth single account tests
+my models give insights to things like that
+on a fresh residential and sleep schedule on a clean profile ...
+there are plenty of long term osbot users
+yes
+its possible and probably that jagex let plenty of botters fly to obfuscate/apathy/ROI
+but the sheer number of long term osbot users suggests client detection isn't the probelm
+you would see users collectively correlate on the forums/ircs too
+I tried a few clients but osbot was the best and best API
+support has also been great
+appeal to the masses*
+ad populum
+but also mathematica
+since their reports /testimony can be correlated
+there are 1000s of osbot users who report long term use with no bans..
+I directly feed my logs back into my solution
+my ROI continues to improve
+I have several end to end and a few looped datascience solutions based on my insight
+Yes I am formally trained in the scientific method
+in 2016 they hired a fresh phd in computational biology to implement ML methods
+I estimate it was a mid tier solution, more exploratory research
+but it signals the start of more AI heavy methods
+and the direct sourcing of high tier math talent
+the ambiguity can be resolved by rudimentary ML methods
+basic signal detection theory
+the new player to the game notices something is not right with the bots
+he can intuit
+the brain will pattern detect on those bots
+if even new players can detect it you will produce reliable and detectable signals
+osbot at least somewhat randomizes the camera movement, and there is easy scope to obfuscate it
+there are some interactions that are impossible based on vanilla client, its possible he was using one of those interacts which suggests non jagex client + unfair mod
+there are functionally true random solutions
+and functions that cannot be reversed without supercomputing to produce good randomness
+biometrics are largely normally distributed
+they are not random...
+the random component can be pulled from a randomness API
+some radioactive decaying isotope in a locked box outputting 0/1
+or from a computationally intractable function
+to model human behaviour the normal distrib is nearly perfect
+for most
+for the extra parameters those can be well modellled too
+we actually have good andromorphic data from UI design firms
+for an endgame solution it does
+if you are 3h suicide botting then profiling and ml models doesn't matter so much
+if you are trying to pass human inspection on a bought/sold acc maxed etc then it will
+they can call all sorts of bespoke heuristics and models on your account if the indian checking it isn't sure
+there is low level ml on new accounts
+my model data suggests a 3rd world external solution
+like mech tuck but I suspect with a real office or remote teach
+team*
+by timezones too
+the game produces interactions, the noise and delays are captured by ml models...
+yes
+anti bot goes beyond software model implementations, down to operational features
+who is running the model, when are they running sql queries etc
+would x person implement y feature or weight z feature heavily
+data modelling jagex employees
+thiss is the first 3000 records from 500,000
+the guys who ran the 2020 dupes checked discord for awake mods
+can you see a pattern?
+its a multivariate complex function, but the point is that you can see with your limited brain regularity
+and so a rudimentary algo will see it too
+this is in general jagex anti cheat team behaviour modelling
+and you can see regularity
+in a graph
+its not necessary to leak my IP
+only to demonstrate that their behaviour is regular
+on some set of features
+its not a sign of shame to realise that you don't immediately understand everything thats going on
+domain expertise requires expertise and time spent in a domain
+yes I can see its increasing linearly
+a function could be easily approximated
+xpgain = f(x+p)
+by looking at its graphical representattion
+what if each letter in your message is cyphered .... well it could be
+but statisticians have standards
+that function was linearly increasing
+according to standards
+to label them would leak my ip and method
+I was illustrating the point
+of data quality
+and potential for inference
+the data at least shows regularity
+functions can be defined
+behaviour profiled
+if your data looked like this
+you might have many problems
+trying to define a function that wasn't just noise generation
+even here with no labels
+you can understand whats going on
+and realise that the function is at least potentially real
+compare that to 
+a real linear function isn't a perfect straight line
+on real data
+life expectancy is linear
+but plotted on real data its not a straight line
+I have millions of data points
+much of the data is fed back into my solution
+it is part of the IP of my solution, so its understandable not to release it
+it is a model.... it captures the data, of course with error margins
+client detection is assigned a probability and fed into the model
+yes it directly increases my ROI
+in a naturalistic design model you're permitted to use naturally occurring control groups
+take for example jagex admitting to finding several botted accounts at 200m xp
+the data is directly fed back into my solution in an online learning paradigm
+its not distributed yet, I am writing the NN code for that
+it runs through a series of finite state machines, akin to boosted trees
+and adjusts the decision making/executive function module of my solution through parameter tweaks
+eventually it will input raw data into an online NN model
+the model will then "blackbox compute" the resultant parameters
+that will be fed into the topdown control system
+have you sampled gtp3... even the full model is immediately obviously non human
+it can't keep on topic for >3 outputs
+IQ gap
+a few below the norm would make me sub 65
+unable to use a pencil
+iq is the most robust statistic measure of a psychometric function discovered and modelled in human history
+130 is 2%
+but social circles and professional networks self segregate
+mensa have just a small % of the whole high iq community
+at base entry like 125 your other factors take precedence, like experience, domain knowledge etc
+there are 10s of millions of 140IQ people in the 3rd world doing absolutely nothing
+it is
+its the best most perfect measure we have ever found
+you can predict net worth at 50 by IQ measured at 16 through standardized national testing
+to an incredibly high degree
+the data is in, check the sweedish data where they track 90+% of men from age 16 through to middle age
+I was googling for 1+h
+the first search has 0 results also
+I think I figured it out
+is there an easy way to try and call a function and timeout? and pass after some time?
+how far does the osrs tile space reach across?
+is it 18 tiles from diagonal to diagonal?
+maximum reachable tiles
+I am using osbots walking, but I need the maximum , I think its 20 and -20 or so
+the area that is visible
+I am beginning to write my automata experiments
+first I want it over exploration, then over all possible entity interactions
+I need a distribution to pass the random increments to the position generation so I don't get stuck walking in circles
+I'm trying to find the nearest non null object, I guess I need a lambda statement RS2Object miscObject = MethodProvider.getObjects().closest((n)-> {n !=null});;
+is there an obvious way to find all visible entities on screen?
+RS2Object miscObject = MethodProvider.getObjects().closest(o -> o != null );
+I want it to search for objects with no criteria
+it always returns null objects
+they recommend wrapping almost everything with a nullcheck
+ah thanks
+I guess this will return the array I need
+there are millions of pages of the api... I try to google first
+I was looking here 
+I guess I needed objects
+My automata should be able to explore all game times, then interact with all entites, with all inventory objects, and all widget options
+with that it would be able to complete all game tasks?
+all game tiles*
+then perhaps I can extract some loss function and perform RL
+my walking explorer is very short, the rest will just be less than 50 lines each
+.getActions() returns me a single string...
+instead of a collection or array list
+are objects hardcoded with sets of interactions?
+ah
+tryign to log it shows : [Ljava.lang.String;@297a562
+ty
+its not obvious that "[Ljava.lang.String" is an array...
+I suppose yes
+but thats not what the log says
+aha
+I think now it can explore in a particular direction
+and not backtrack as much
+its an array in matlab and python too
+but when you print to console it shows [Ljava.lang.String;@286c4f20
+I'm coding basically one of these 
+but with entity exploration too
+if I can add an RL algorithm and record its states/game states I can approach an AGI algorithm
+I am doing research
+AGI research
+and also anti bot modelling
+the behaviour of the bot shouldn't be predictable or profileable
+at a certain depth of the finite state machines
+iterating over all possible states
+at a glance, already my agent appears to be displaying "noob" like behaviour
+where he is exploring the early map
+if there are parameters or "weights" that bias the state machines to fall into particular states based on learnt/previous knowledge then no
+AGI
+not AI
+bot detection is looking for non human intelligence
+AGI should converge on human level intelligence
+and simulate it
+I have modelling data and inference
+they have a good false positive rate
+so simulating a human playing is a viable solution
+the human runs a biological neural network
+and has some AGI algorithm running on its neocortex
+it has some inputs too from the environment
+you know how to order a cheese burger
+but if I ask you to order it in chinese
+semantics are much more important than syntax
+human level general intelligence
+well they are differentiating humans from bots
+my PCA shows SQL table lookups
+basic quieries
+then heuristics
+then some ML models
+then having humans manually review
+return confidence values of bot/not bot
+classification problem
+well so at about 6am GMT they pull a sql table and pull accounts created <24hours and sort by ips per account
+then check for a flag on previous IP ban and sort
+this is the first leg of the ban wave that sweeps at 7am GMT
+its a multi tiered longitudinal datascience project
+its quite complicated, modelling of complex human behaviour
+you need to build a network of data points etc
+assign probabilities over hypothesis spaces
+so there are a finite number of technological solutions
+you need to search that space
+yes so SQL is one of the options
+then you feed data and knowledge into graphs
+and as you accumulate evidence
+your model outputs confidence intervals over solutions in the hypothesis space
+my models output sql as most probable
+ergo I have confidence in it
+well they could be using notepad ++
+or matlab...
+if it helps, one of the research methods I used was to compile details on the background and expertise of their employees publicly available
+for example one I linked here lists the specific methods in her datascience projects at jagex
+its more likely a few dashboards a guy built a few years ago that have daily readouts of those sql tables
+then gives the ability to manually write queries, though nothing too complex
+I am running a holistic approach, so many forms of data/evidence
+No its for my bot farm
+I outsource client maintenance to osbot
+they patch the hooks and upgrade the API etc
+that frees me to work on the high level problems
+No I am a sponsor
+its part of a larger AGI research project
+to produce AGI
+?
+there is a built in turing test and  an aggressive human check on bots in osrs
+I would have to write my own turing tests and create a complex environment etc in unity, when it already exists in osrs
+There are many kinds of turing tests in theoretical CS, beyond the original
+if you go to the original papers descriptions you can see what the purpose of the test was, its similar to bot detection in osrs
+I never claimed certainty, only confidence/probabilities
+for example the statement that the earth is round is for me still a probabilistic statement, its given that this is subject to some caveats and includes some error margin
+well yes, see the "cartesian demon"
+you can dissociate the client with quite simple experiments
+for example when I was investigating entity poisioning of water sources
+I ran concurrent bots and legit clients
+and hand play and botted and image bots
+anyway, this is going quite well, but I'm finding its getting stuck in some narrow corners sometimes
+you run on neural networks, and the inputs to those networks come from sensory modalities, this allows some room for randomness
+to the extent that the sensory inputs are dependent on truely random phenomena
+I defined its previous position with a radius, so it doesn't immediately walk back on itself, there are some weird spaces ingame like
+I am going to try and log the state of the machine
+and figure out a reward/loss function
+then adjust some of the parameters based on that and calculated rewards
+first I need him to explore, then to interact with all entities, then with all npcs, then all widgets
+so that I don't need to hand code anything extra
+and it will learn and play itself
+fatigue systems on entity interactions
+I will pass it through an exponential
+so its less likely to spam interactions
+if the checks for tiles and entities/options are generic enough the bot could even survive game updates
+without needing to patch the scripts
+no because jagex change entity names etc and other stuff and move things
+most scripts tend to rely on something hardcoded somewhere
+I am reading all of them for the randomly selected entity
+then selecting a random one regardless of what it is
+i can link it to a radioactive isotope decay api
+for which the function for decay is indeterminate
+a function * trueRandomFunction = trueRandomFunction
+I think...
+maybe you can model the non random part
+you're supposed to focus on something if you're trying to complete a project
+in the DSM autism is more arbitrary focus on particular things
+well if you're working ona  project, the details of that project aren't arbitrary
+the common hyper focus in autism is on things that have no functional output, like species of butterfly etc
+anti bot are a collection of largely statistical techniques
+and ml models are underlain by statistics
+the way to beat a complex profiling function is to create or generate an even more complex function
+like how a GAN works
+or a function that produces complex behaviour
+like a bratienburg vehicle/automata
+if they are linked to botting already than 30%
+if not then 90-95%
+there will always be error
+and my experiments show that they don't require 100%
+since you can be banned without even logging in
+or hand playing on vanilla client
+I have just written that script an hour ago
+maybe once I have all the base game interactions and behaviours done
+this is just one of my approaches amongst many
+and java is not my language of expertise
+it is already exploring the map
+the brain reduces the environment to a grid anyway
+the point is not to "discover" the map
+but to perform animal like environmental exploration
+you want the behaviour to emerge
+instead of hard coding it
+no no thats too low level and trivial
+the algorithmic part of AGI isn't related to say an animals leg movements or the mechanism of a knee joint
+spatial navigation is a sort of "thought" problem
+thats why there is a return to nature inspired methods
+I am modelling animal based exploration
+the agents behaviour is at a high level
+like the difference between a mechanical arm and a mechanical brain
+osbots client is just the arm
+the script is the brain
+yes
+but those are still low level
+the brain integrates sensory input
+it generates a high level representation of those sensory inputs
+it is an endgame solution
+the solution will be less effective in the early stages, but as it learns it will surpass those hard coded
+its a paradigm shift toward 
+so far yes, I need a working prototype with appendages and capabilities then I will log and build the learning
+they begin randomly
+you can have a proxy for ban data
+and learn on that
+if your loss function is human behaviour
+and you optimize for it
+you will optimise for anti ban
+they were lying
+jacmob is a confirmed liar
+there is a video on youtube of it
+yes
+and who claims to have built the system
+he claimed you can track a particular player logging in on a new account in another country
+highly unlikely
+he was making a ton of wild claims mostly I think to scare the younger audience into not cheating
+there is a long list of jacmob lies
+many of the claims he was making would be Turing award breakthroughs and he was throwing them out like nothing, and in the face of hundreds of 200m xp bots
+and private services offering account training operating for years with impunity
+it was when he made those claims
+there are also videos somewhere of anti cheat claiming they know 100% if you're botting on a client
+there is a development curve
+and R&D doesn't usually immediately provide ROI
+I have good estimates
+is there an obvious way to track the outcome of game interactions? should I try and read all xp values and just track xp gain? or inventory item gain?
+I'm thinking I should store the object + interaction string as a tuple, then compute the outcome, if its null then add that to a blacklist that will decay over time
+I think I need to record the state, and the entity, the interaction option, then the reward measured in xp or GP, then from that I can create a probability to complete that action in that state based on expected reward
+I need some kind of geometric surface to compute the probability on
+The agent needs to fall into a saddle point, then come back out with some momentum
+so he doesn't immediately fall back into the same again and instead traverses some kind of hyperplane
+where xyz are the standard dimensions, A is an axial tilt, another generic dimension
+A is the agent defined by its state, with M a momentum property that describes its movement across the plane
+P are peaks that need more momentum to reach, T a troughs which require less energy/momentum
+2a is a dimension on the surface, and describes the convexity of the function at that point, it is the second order derivative
+hmm I think I need to track and store a series of interactions over time, then calculate the gain, because some things will be useful like widget interactions but not give xp/gp
+its abstraction of the agents possible behaviour
+it is the technical term
+I struggle with java syntax because I write in hundreds of languages
+It takes a long time to passively pick up syntax, even now to write a for loop in java I will still google the syntax and copy and paste it
+this is an AI engineering project
+because you will suppress normal production
+and you need it for your normal circ rythms and homostasis
+human body endogenously produces it
+there is no medical evidence of effectiveness
+semantics are more important than syntax
+the more important language is theoretical physics
+you will pick up the syntax as you build things, there are too many languages to bother to learn all the different parts explicitly without a use case
+There is nothing I've not been able to "do", it just takes longer to look up the particular part of the API and understand how to phrase the code
+if you write in a single language you don't understand programming
+it is a kind of geometric representation of a phase portrait for a non linear dynamic AGI system
+its more important to know what a for loop is doing that to have the specific syntax memorised
+you can make a forloop from grains of sand
+I don't think you need pointers in java
+Like I c you need to handle them yourself
+A stack is a kind of data structure
+the programming languages supervene on theoretical physics
+so their differences in syntax are somewhat arbitrary
+more important is what they are doing at a lower level
+I also code a QC
+I use python to call it, but there might be a way to use java and implement it directly in your bot
+I am doing some exploratory research
+trying to find an algorithm to speed up computing NN calculations
+if I solve that one I will load it on a supercomputer
+run a bruteforce architecture search
+on some of my other research
+architecture/parameter search
+try to solve AGI
+It is private research
+for profit
+I read but I prefer to go from the ground up because its a new field 
+not to reengineer the QC itself
+but the higher level stuff yes sort of
+most countries on earth can produce cars
+but very few can produce self driving cars
+in you guys custom clients can you see a stream of game data that represents the internal states/objects etc?
+and do you have meaningful access to it
+basically can you read the game state into a vector?
+they changed osrs acc creation again
+not sure what they've done but captcha has been repositioned, possibly upgraded fingerprints etc
+possible site key change too
+they are cheap to farm to the 3rd world too
+there have been good attempts at automating just the image part with a  little nlp too
+the captchas for osrs work out to about 0.002 cents iirc per captcha
+4,700 gp per captcha
+hi guys, I dnno if its ok to post here but I can't figure out why this snippet is throwing null pointer exceptions:
+private int bfsTargetItemSlotHelper(Item[] invItems, int targetItemID, int startingInvIdx) {
+20% of the time it seems to null pointer exceptions
+my debug log reports this line            if (invItems[current].getId() == targetItemID) {
+so 13 by yours
+hmm yes I see that now. Now I think I am a retard, thanks guys
+I still can't seem to prevent that null pointer, any ideas what to do?
+@Qosmiof2 
+yes but its still throwing a NPE
+Here's the full code 
+I can't use a breakpoint/ proper debugging because of the way my environment is setup
+the NPE line is marked just under where I put //experimental fix,
+and ingame it happens when trying to combine items sometimes, but maybe 20-30% of the time its thrown
+> literally the first thing ppl told u lol
+also thanks for trying to fix this its been driving me insane
+you cant iirc, its an int, so it only lets me check if its equal to zero
+but zero is actually a valid response
+no that should be a long
+because item IDs are longs I think
+how can the slot be null? the slot wont even let me....
+program 2 years M.Sc but java a month now
+my osrs bot is pretty deep now but I didnt write this code snippet
+but 0 is a legit index for the slot....? the slots are from 0-27
+> InvItems[Current] != null
+x6 out of bounds error?
+and the second returns null?
+well you asked item 2 for its id, which I guess will return null
+getId()
+not unless it handles nulls?
+ok
+but you can check it returns null
+and then return something if it returns null
+so it kind of does exist
+ok but why would my index[current]
+return null
+its limited to 0 -27
+then inventory is open
+so in the code, the array is a linked list? bfsQ
+so this should be null checked?
+yeah
+yes but I've allready null checked that in everyway imagineable
+and its still throwing
+if(invItems[current] !=null) {
+I prefer to write code fast that works rather than spend ages saving a ms, for me the bigger picture is better than minute details that I can go over later
+Well I built on it over and over, and dont really fully understand how to put snippets in different classes while using an API
+that snippet is in a method at the bottom of the file...
+my main finite state machine is about 400 lines and its very complex in its behaviours
+that code I posted is one of a few snippets I copy pasted  to do something I CBA to code myself, thats also why I don't understand it
+one class has 1k lines or so to simulate human typos.... it works, I call it with one line, I don't need to look at it  until it breaks
+for me the people who spend extra time trying to optimize something unnecessarily are wasting time...
+for so many things it wont make any real life difference to how fast it runs
+well actually I intend to optimize my bots because I am running a farm
+you could have given me the line for the null check
+i mean the line for me to implement
+90% sure its fixed, thanks guys
+hi guys, wonder if anyone can help: I'm trying to consolidate my 3000 line bot into separate classes. When try to do this for methods that use the API for my client, I get "cannot be referenced from static context", so I make it static, but then i get "the non static method can't be references from a static context". so I'm stuck in a loop.
+Thanks, I think i've fixed it!
+.
+anyone else running a suicide farm? for the past month, without fail my accounts are all banned from 7am GMT to 9am GMT, and they have a 20% chance of being banned between that time at 17:00 GMT
+I can't be the only one to be getting banned at this time in the morning... its to the point where I can relaunch the farm pretty consistently just after the ban wave/chain and easily mule just before they are banned
+Also, are area sweeps by jmods a thing? like they actually walk around ingame to locations and clear bots from each world there?
+mine are all banned, everyday wihout fail at 7am 90%, and by 9am 100% are banned. I'm running about 40 on my laptop because I'm still in dev mode, can anyone recommend a VPS service with a "safe" ip that I could run 100+ from?
+they are suicide accs... they are running 24/7 and their gp rate scales to max in about 30mins from acc creation
+mostly I can run 40 or so for 23h before that 7am ban, then I one click relaunch
+id rather scale the suicide op with a VPS, because my laptop cpu is pretty much at bottle neck
+they are non stop suiciding on f2p... tutorial island to farm suiciding too and have a somewhat buggy chatbot that also begs nearby players for money
+they delay bans and other obfuscation, so not necessarily
+if they have a database with ips and accounts logged in from ip, and sort descending.... id be right up there. I don't think its worth it not to run at scale
+ok i will do some next time I change my ip thanks
+you guys who are lasting more than one day are taking breaks/not suiciding?
+maybe you aren't lasting more than 24h in total
+aha
+I've already added a multi thread for the chatbot api and begging, I was thinking of adding a layer of anti ban whilst it does tutorial island
+i mean anti ban over my tut island script.... because how else are they detecting it
+to randomize more some of the actions by misclicking or something
+people are getting banned
+at 7am ban waves whereever my bots are are cleaned
+that means nearly 100% of the farmers there are banned
+botting something unpopular on p2p.....
+you use a public client?
+how long does it take to update your client if the break you with an update?
+and why reverse by yourself when there are professional teams doing it like osbot/tribot etc?
+so you guys are also claiming that other clients injection is detected but yours isnt....? this seems like bs
+the only advantage to reversing it yourself is to avoid common detection.. if the major clients injection isnt detected....then why not use them and write private scripts with their fleshed out api
+opinions on computer vision bots? I am planning on making a general one with tensor flow at some point, and a basic cog architecture
+ive been suspecting jagex feed fake into to the client to trick bots based on hooks, a CV bot couldnt be tricked like this
+in a video on old methods a guy claims in classic they used  a basic "click entity clicked x times, send fake entity"
+well no, its just that we cant be sure they arent detecting injection/client hooks.... open CV seems the only way to pretend you are a human
+lol jagex brought in a new trade limit for new accs???
+now they need 10 qp or 24h for all items
+they just ended my suicide botting career
+there was already 7qp and some items, but I just sucided the other items
+i can add a quest bot.... but this will waste another 2h or so of their startup time
+they cannot last more than 24h
+gold prices prob about to double
+I imagine 90% of f2p suiciders are finished for a while
+hi guys, sorry to ask again but I am hitting a NPE/ none type and I can't seem to fix it, 
+if anyone has any ideas that would be great
+you guys see the latest bot nuke update? all the f2p worlds are cleaned
+> dude
+sorry, the line throwing it is the one at the bottom, just under "click rock"
+those objects are returned from the screen scan for the image, i guess they are coordinates for its position
+also... I tried a free amazon trial windows private server and it fucking sucked, its real price is 10 dollars a month.... and I could barely run one bot on it without it lagging and being unuseable. Yet on my 2 year old laptop I'm pulling 40 at once quite easily.... can anyone recommend HPC/vps
+i'm pretty sure the error says that i'm attempting to index a none object....which is self explanatory.... how exactly thats happening after I've checked that the elements in those lines are neither null nor 0 is my point of confusion.
+the original source is here: I've modified this a bit iirc , but you guys might find it interesting, its capable of running on the legit and runelite client, using open CV to built objects to make states from, the guy has left almost 0 documentation/guide though and his ground breaking effort has been completely ignored 
+I have dreams of adding RL or at least making a general exploratory agent with this forming the backbone of the agents sensors/sensory system RL algo, deep RL as its nervous system and a drift diffusion model for the activities selected from state models
+its not a colour bot... realtime object detection.... it converts the images to greyscale I think too, and it can read text etc
+guys i have an idea to run OSBOT on my GPU, I found this github and at a glance it doesnt look too difficult 
+if it worked decently well maybe HPC supercomputers could be used to power a botfarm
+not for data science...
+just to run a JVM
+instead of using the cpu, use a gpu
+I tried most clients/apis, osbot beats them all by a mile
+yes but I'm using my CPU already for botting
+and my GPU is sitting idly by
+also if it worked well.... there are HPC GPU resources 100000x larger for high physics and AI available
+there isnt really good evidence that mouse movements are used to track botting
+there are plenty who use snap to bots for months....
+i doubt that....
+make a bot that has absolutely 0 human mouse and super speeds...
+you can still run it for 24h +
+no good evidence
+I saw that post
+hes just speculating
+50ms he claims
+test it... run your bot with no mouse movement
+that literally simulates impossible mouse clicks... same ban rate
+re read that post the guy did
+he shows they are tracking a position, then another position right?
+not the trajectory arc
+for every point
+fairly accurate isnt good enough for your ML profiling
+you cant just guess the middle
+the whole point of human vs machine is the middle arc part
+the jmods are 100 IQ at best.... whatever ml they are using is meme tier
+their bot detection is literally chinese workers manually looking at accounts
+also 6h ago osbot updated their mouse movement
+you can use ML on point and delay and point data to detect people at inhuman speeds
+but you cant profile their movement
+without the fuckign middle arc data
+and guess the points in the middle?
+what paper?
+i'm aware of that osbot post
+oh
+tyvm
+will read
+simple tests disprove the mouse data theory entirely though
+check out the guy botting to ahk max
+....
+make a suicide bot and use a free macro mouse input
+theres no change to the ban rate, even moving at inhuman speed or directly injecting clicks
+suicide botting 24h is good... you win if you get close to 12+
+jugs are entity poisioned
+its sub1h ban for interacting with the entity on a bot client
+because some guy decided to run 10k jug bots
+all day everyday
+i think I have a video of it
+the idea human mouse movements are hard to simulate is also wrong....
+you can easily record and model your own then compare a bots performance against it
+50m osrs
+this is why the fountains are entity poisioned
+my bot in this video is actually using a neural network
+but only for its NLP
+lol this paper
+so jagex claim they detected 100% of the bots...
+and they give us the  Kolmogorov-Smirnov test as the metric
+so we can just run our mouse sim software against the same standard....until we pass it? or train a GAN to do it for us?
+is anyone buying this BS that they have 100% detection.....
+his source that jagex's bot detection is 100% accurate is.....jagex?
+mouse movement is not even a remotely difficult problem
+you can record a single guys movement from one point to another point then add any amount of noise....
+done....
+it works fine because half of the highscores are bots....
+yes they do...
+they move like the human they recorded it from
+you could also record the same point 5x then take the average
+and use those as bounds for your noise param
+"Random noise on a path won't look human will it" yes.... it will?
+ok enough from me about mouses, my theory is that jagex pay chinese sweatshop workers to manually review and entity poison flagged accounts or accounts that have been playing more than 2h (no human is likely to be doing this except a few hardcore known players with 10y + gametime)
+one single movement from point A to B and a noise variable is enough to break any ML detection
+thats because of suicide bots
+theres a paper on it
+someones master thesis or something
+lol trusting jagex
+they have investors...
+the paper showed is was more like 1h
+and per week its like 4h per week
+99.9% chance its a bot if they are over 4h in a week
+you could pay a team of chinese to check each acc that exceeds that and ban them
+They are almost certainly manually reviewing my suicide bot farms... to the tune of 10's of thousands of accs
+the only way they are doing that is with 3rd world labor
+maybe the same guys who fill in my captchas are also reviewing bot flags
+that would be ironic
+there have been a bunch of people automating ban appeals with 20-30% success rate too
+they were doing that on huge farms....
+there would actually
+because those humans make mistakes
+by attributing it to an outlier/autism
+humans have systematic biases too
+there are very few new players who play longer than 1h a day or more than 4h in a week
+less than 50-100
+one guy can review those by watching them
+new players
+if they have already tagged all existing human players
+they only need to review new players
+and ban anyone else they find botting in their current player stock
+banning regulars who start botting is sustainable and doable
+it takes a long time to get an acc to "main" status to bot something
+its not worth gold farming with your main....
+because getting banned means you worked for 0.00001cent an hour
+pls report back to me
+try varrok east
+its where the guy ran the 10k farm
+and lumbridge pvp world  is already disabled, possibly the same guy
+my accs were getting banned within the hour, some less than 400 jugs filled
+I get banned everyday, I suciide bot....
+yes today
+osbots api got broken temporarily and a few of mine got banned
+because of it
+I thought updates only come on thursday
+I was in a skype work meeting and I started to notice my clients self terminating
+its great
+they patched it in a could of hours
+like i said, ive tried a dozen botting clients and osbot for me is my choice
+maybe i'm biased because i spent time programming with it but tbh its great
+tbh who is botting and not farming....
+my suicides are at 27h runtime ban average
+thats up 8h since the last bot nuke update
+i think i have a solution from that mccracken paper
+if we have the function for the human mouse movements
+we can generate the next movement with noise and use a container for the distribution according to the function
+if our generated, next move doesnt perturb the container too much it passes and is executed
+so we always move according to the human movement function
+like random number generation according to a given distribution
+you can diverge....
+whatever method they are using if any (i think they arent at all because mouse teleport bots are hitting 99s) would be beaten by a human distrbution
+also i've come back to my machine and found my bot clicking the same spot /entitty for a solid 14h and not been banned
+no because he only works 12h
+then he needs to go to his second job
+sometimes he wont make it to your acc
+from the major public clients its api is clearly the best
+i think jagex fired half their chinese anti cheat team after the last bot nuke
+they actually just put a trade limit on new accounts
+no idea why it took them 10 years to do that
+jugs are 60gp each now
+the well is literally entity poisioned
+anyone know how he managed to stack 100+ accs on the same world?
+i highly doubt he used proxies and he had 100s on every world I bothered to check
+you get blocked at 10
+he has 10k proxies?
+they are hard enough that i dont even have one
+my iq is double didgits!!
+those are all blocked/not working on osrs
+and there isnt close to 10k +
+ah well hed need 1k...
+i counted 100 + on each world I checked
+if he did every world,,, even just a that fountain
+he could have been doing other fountains too
+i think its much more likely he found a way to log more tahn 10 accs same world
+risking serious jailtime for a water bot....
+can get snatched by the cia for that
+you can get extraordinary renditioned for cyber attacks on the us
+no they dont lol
+look at the last few guys they executed extrajudicially
+bot net....
+bot net from russia is a cyber attack
+it falls under act of war
+and terrorism
+the US will drone strike/rendition you for a botnet
+ignorance of the law is not an excuse
+nigerians arent russians/chinese
+the US has a major hardon for the chinese/russians
+if you botnet and they trace it to there it goes to the military.... not the fbi
+they can
+they have executed hundreds of them??
+US offshore prisons are filled with chinese/russians
+plenty of arabs too
+none of whom were extradited legally
+over a botnet...
+it doesnt matter what you are using it for
+only that you penetrated machines in the US, and it came from china/russian. its in the new trump cyber warfare law
+if you run a botnet overseas, especially a hostile nation you have comitted a an act of war in the 4th sphere of battle, cyber space
+its literally called that
+they declared cyberspace after land air and sea
+they have done thousands of them..........
+what is guantenemo.... its just one of them
+one guy spent 5 years in jail for a RS comment
+if you see the allegations for most of the non arabs in US foriegn prisons
+50% or so are related to computer crimes
+and many of them are incidental, like writing code that was used in some one elses act of cyberwar
+there is no trial or formal charges if the US picks you up outside their border too...
+the average botnet has 50k + machines infected
+i cited my sources.... what i'm saying isnt controversial
+the wiki article shows the laws i was talking about
+and the term cyberspace
+The United States Department of Defense recognizes the use of computers and the Internet to conduct warfare in cyberspace as a threat to national security, but also as a platform for attack.[1][2]
+the cia dont arrest terrorists lol
+you go to a black site
+or get drone striked
+gary mckinnon is i think the only one to do it and not get caught by them
+and because he has the explicit protection of the UK govt
+international incident?? they have drone striked 1000s of their own citizens living overseas
+there was no incident
+they have unlimited powers and budget for terrorism/warfare.... so yes they literally do pursue russian teenagers
+have you seen the russian news? every day they are claiming the US has done xyz
+look at what they got picked up for
+its stuff like running botnets....
+the nets are also amplifiers for attack vectors, about half of the public cyber threat list are amplifed/catalyst by botnets...
+you think the us wont pick you up in china or russia?
+if the host nation doesnt give you up then send jackals and you get black bagged... they even got caught doing it in france, a supposed ally of the US
+wat...
+mb, it was related to irl antiban
+anyone got any code optimization tips specifically for JVM /finite state machine OSRS bots?
+I'm also wondering if in delay conditions where I know there is at least a guarenteed 3-5 second wait time, if it would improve speed by using a thread sleep, then calling my conditional sleep (Which uses polling/cpu cycles I guess?)
+And can anyone confirm that a single boolean check is negligible in terms of adding to cpu load whilst polling?
+I think ticks are handled by the API in my case
+I am just handling reaction time/cognitive load delay and game event delays
+my query is whether most of a delay can be replaced by putting the thread to sleep to free cpu resources for other bots?
+most of the delay for the logic is handled by an API that I can't really access or control, the delay that I'm trying to replace with thread sleeps is determined by large several second guarenteed when the cpu can be idle on a thread
+if its not idle, I think its polling continually using up cpu cycles unnecessarily
+some idles guaranteed can be as long as 5 seconds, so server ticks are irrelevant
+also if anyone programs professionally in Java...what % cpu reduction would you expect from a poorly optimized code to reasonably optimized
+but its typically 1-2% or 60-150%?
+anyone know of a fix for intellij hanging whilst typing code? its not my machine...
+hi guys, I've just almost fully automated my farm, however each account is inside a jar, and I track them on my servers by their jar and cmdline used to launch
+they are supposed to destroy their own jar process when they get banned, but sometimes this fails
+so the jar is still running but the account is banned... sometimes I can look at the cpu/memory in wmi task manager and see its really low so hes probably dead
+but sometimes the cpu/memory is still as high as the other non banned accounts... so well... any ideas how I could detect the account is banned?
+ideally not involving databases
+or a way to easily try to "ping" an ingame acc to check if hes dead
+on the client i use it reads that and tries to system exit then the script stops, but sometimes it fails
+id have to do that several times a day... and the interval inbetween would be lost productivity
+my theory is that the script that calls it sometimes exits before that system exit call because of some override in the API
+i think i can do it if I could ping an account,
+whats a tutorial island>receivebond>500k-1m hour method? that has an stable market like cballs/dragon bones?
+also anyone know how I can sell a rs3 yellow
+cballs 200k/h according to wiki
+flax is 100k?
+fletching needs 55 to profit and then its 170k p/h
+gente, socios
+tenemos una gran problema
+este problema se llama sir pugger
+Este bastardo va a destruir todo lo que hemos construido.
+I  propose we do something about this problem
+In less than a week from today jagex will crack down again
+in direct response to this new video
+ok i have a solution
+Tengo una solución
+collecting feathers is entity tracked/posioned
+i think everything a genuine new player would visit is poisioned, so stay away from lumbridge and most of varrok
+they said they even blocked splashing because newplayers would wonder why there were lots of players doing no damage to rats
+they blocked the fountain lumbridge because of that too in part and in part because of puggers video
+wtb proof
+back in the day it was 5b a day with a small farm
+can anyone share the account creation "site key" for selenium-gcaptcha
+here is the url 
+i'm trying to get it, apparently it doesn't change too
+thanks 1,000,000
+?
+python account creator
+i can get the solved captcha from anticaptcha, then supposedly that line near the bottom injects the response into the page
+then i click verify, but it doesnt work
+I asked the support at anti captcha.... the guys response was we don't know how to use the solved responses
+# Inject response in webpage
+im using python
+requests seems much more complicated, and difficult to check/confirm the acc creation
+anyone know what the new tutorial island configs are?
+it seems they added a new case along side 281
+hmm its the actual game
+there is a scenario /server interaction between set name  and customize character thats failing to increment the config, yet you have advanced the stage.
+the config then stays stuck on 0 for the whole of tutorial island, yet you can progress....
+its tied to the account too, and can't forseeably be refreshed/reset
+because there is no way to go back to the set name screen to trigger the config increment once you have a name
+poor coding on jagex's part or config poisioning... hmm
+on sythe probably
+anyone know the config change at the start of tutorial island? after talking to the guide
+that value is also 0
+when he tells you to go through the door
+sometimes i catch a change in config after selecting a name, then its fine using that
+but sometimes that value doesnt change and i'm stuck, as 281 still returns 0 but he wants me to go to the next section
+wait sorry that config is returning 60
+ill check it out thanks
+but my bots have been going for months using 281
+how could they work without even using these values wtf is happening
+i can see this one changing, i will try and write using it
+when was that released....?
+really...?
+not sure if troll
+this might explain the stack of dozens of accounts trying to talk to the guide
+err thanks ive made some progress
+this was for anti bot?
+i check the update page and they say its a surprise/top secret content not anti bot
+my fix so far just checks which one is returning > 0 then returns that instead
+thanks guys
+> @sarahpeterson 
+why do they anti rwt so hard?
+gold is 5x lower and the game is afkable and no one plays it
+the people buying gold are also the kind of player jagex want
+infact if you arent buying gold you're almost a net drain on jagex
+gold buyers also buy spins to win, p2p in cash etc
+anyone know of any self learning osrs bots?
+with stuff like spontaneous exploration
+on osbot you have the map coordinates and all the tiles mapped out, and the bot knows it own position on the map, it can read scan the entities around it and actions too and record gold in inventory/bank
+if the data was fed from hundreds of bots and some kind of optimize for gold production with measures of the bots lifetime before ban
+they could be left to suicide and swam learn
+swarm*
+i think most of the code is already written in osbots api i'd just need to tie it together and work out that function
+even if the data gathering and processes is huge, it could be centralised to one NN, then all bots use that same network to decide their next action, eventually everything would also be precomputed in the network too once the initial pretraining is done
+if the bots way of working out possible actions is general enough it could even learn around new updates with no intervention
+not enough
+but enough to be worried about pugger
+wtf is happening to gold prices too... is there a twitch prime exploit?
+why?
+In some industries, men are killed for their "journalism"
+ml updater?
+are cluescroll bots a real thing? do they actually make decent GP?
+to find dead in the water bots
+mine seem to have their memory taken over until they are around 400mb if they've died but not self terminated
+making tools to manage the farm in python and find stuck/dead bots from their memory values, then launching them in debug mode with interface so i can see whats going on
+i think bots getting stuck is actually a ban trigger now, like it sends a flag to jagex
+and if a guy is online he will check your account
+which explains getting stuck for 16h and no ban because they have no one online to review
+at my threshold now of 530 mb i'm catching all my stuck bots
+i just kept going lower if the bot wasnt stuck
+i tried and failed miserably at setting up server communication
+i will try again at some point lol
+they are supposed to timeout and attempt a restart which seems to fix it if I do it locally but for some reason they aren't responding to the timer... idk why and even when I tried to self terminate them if they were stuck they also ignored that
+the client's not dying, in this particular case im debugging its my own low iq scripting thats causing the stuck
+i have a two click kill launch test relaunch now in python
+i think if i search for cpu util i could find NPE's too but I've resolved all of those in my script i think
+you guys presumably use some high level language to manage your bots though right? this forums not for database/server etc management too?
+also i'm not talking about script/bot settings....
+Idk why you guys get so mad about OSbot... its not like any custom client has a fully built out API thats comparable
+its really quite useful to outsource part of a solution to a 3rd party expert.... its not like you develop your own OS too right
+its stuck due to script error
+its the tutorial island gate on the new version, i built my 2nd version ontop of the same state machine for the first
+osb client starts at about 400mb ram, then after maybe 10h it peaks at 1600
+it doesnt need that extra though because if you use msis ram free it clears it back to 600 or so baseline
+someone redpill me on pagefile? if I max the ram out can I still basically run bots from page file memory since osrs is so basic and doesn't need really fast memory performance and the pagefiles on a 970 evo ssd? would i ever hit a limit loading bots on ssds and expanding them into the pagefile spread across dozens of ssds/hdds?
+i thought an ssd is loaded for 100 years
+hmm but will the client actually give out running on a pagefile?
+i think i played it on win 95 and dialup
+ahaa
+ty
+i'm having heat problems on this machine and already running a lot of ram on it, i also have 10s of tb HHD/ssd space thats not really being used
+it would take too much time
+not worth it
+My expertise is in high level programming/AI.... cog archs etc
+to make a packet bot or something is probably quite trivial but it would take me a long time and id need a lot of debug
+then id have to maintain it as rs updates which would really make it not worth my time
+and face getting blocked out by an unexpected update
+i think if anyone really has a packetbot we would see a lot more bots
+was it a nuke? osbot is down
+this is the number of players per world without bots
+thats 10 bots for every real player normally
+the md5# algos?
+we need to try biological solutions
+how long does it take to update hooks?
+anyone still in doubt that 90% of online players are confirmed bots?
+look at online players rn
+its 90% less than it was 1h ago
+and 50% of those are colourbots/ahk
+1h ago world 430 had 800 players on it
+right now it has 40
+and at least half of those are ahkcolour bots
+yes. and it had 800 players
+1h ago
+now no injection it has 40
+half of the US are mexican now though
+why sometimes they break the hooks? and sometimes not...
+anyone using runeite would just load the official client...
+w 430 is still 70 players
+and half of those are ahk bots
+half the f2p worlds are about 40 online players
+they are all normally 400+
+with runelite updating their method, will bot client devs just copy the method?
+ah
+its obfuscated too?
+d...does jagex give them a special instruction set with identifiers too?
+well because they could supply them with a key or method that identifies the client to aid their bot detection
+5h for osbot devs to rehook their client wtf
+people who manual play/bot or bot a main are their main customer base
+wc
+5h is bad no?
+if runelite did it in 1h
+its back up now, but that was a full 6 hours downtime
+anyone know a way to stop java producing sound/mute it permenantly?
+each new java instance by default has sound enabled requiring me to manually mute it...win 10
+got ban waved that reached into a ton of accounts that have been created but not logged in
+2nd time I've confirmed it, seems manual
+the guy who does the 7am GMT wave I think did it
+workarounds, experiences?
+how to inject gcaptcha response into chromium puppeteer non headless?
+using pythons puppeteer
+in one of notabots videos he shows his farm manager has an integrated (i think python) GeeTest captcha solver which is completely done by machine, a quick google mostly turns up very old deprecated attempts. Anyone know if its really been done?
+oh god jagex changed the name of something silently in the last update I was using to bot, it's really specific, does that mean they are onto me?
+could they have done this to poison the entity too? is there some way I could check what the original object ID was?
+is there an entity database like for items?
+why would the change the name of the entity...? it's really just to break my bot until I notice and change the string? ...
+anyone familiar with how entities are instantiated in the client? I am wondering if there is space for them to contain/trigger booleans or other information, or be "marked" or "poisoned" like this
+in the object there could be additional fields etc?
+its specific to particular entities
+which makes me think that its hiiden inside the field that defines the entity
+they literally broken my bot by changing an entity name today in a silent update... the entity has been the same sink 2004 or something
+that doesnt matter, it was changed today
+my tests on a poisoned fountain a few months ago strongly suggested that it was entity poisoned too
+and I've recently discovered another similar entity poison
+I have it down to the narrow range of interactions on this one too
+its not the bots because I can trigger it playing on the official client
+and hand playing
+but doing what my bot would be
+yes
+i triggered the entitty poision
+yes
+this is also how I know that at least one of their detection methods is blind to client etc
+since I wasn't even botting and was banned just the same as if I was
+the kind of ban that hits a legit player on legit client not doing anything wrong, means that they wern't looking for mouse/client etc
+just entity poison triggers
+this was less than 45min playtime too
+the first one I discovered was the varrock east fountain
+then the centre fountain
+then the GE fountain
+they removed the pvp one
+and poisoned those other ones
+but it banned me the same playing on the official client, hand creating acc, tutorial
+yes
+yes and my ip was probably flagged too
+but only the jug fountain interaction triggered it
+i could bot other stuff and nothing
+the entity has several fields
+they could have one that can be flipped on flagged IPs
+or targeted accounts
+or a hidden depletion of an integer inside the entity
+in a hidden field
+but its those specific fountains
+there are other fountains that aren't posioned
+those ones are really visible
+and for a few months a guy was running a 100acc per world 1b a day farm on the varrok east one
+he had a solid line of accounts from the fountain to the bank
+on every world
+this is the data osbot client shows too
+but maybe there are hidden fields too?
+thanks for the solution
+they can change the ID though too
+my bots interact with thousands of different entites
+I usually babysit the tutorial after update hours... but beyond that
+I guess if they moved the entites you would break though right?
+but they dont really do that
+its the first time they've changed something like that on me
+I have literally just changed the string in intellij to search...
+the string is a different english language word all together.... like dog to cat
+this adds 0 quality of life, i'm sure the guy who changed it is also targeting me
+I am looking at the entity in the official client too...
+the name of the object is different to what it was yesterday
+and has been since the start of osrs
+the thing they changed is the only one of its kind I know of, so its pretty rare, they 100% changed it silently in the latest update, I remember thinking the name was strange when I wrote the code, I knew exactly where to change it to update it... and its 5 seconds in intellij... so if they were targeting me, this was a poor way. Unless they have done that as part of an entity poison.
+I've got all the flags set on options
+and I edited the cdc in hex editor
+tried undetected chrome selenium too
+using chrome
+gave fake headers
+i had one but its recently gotten broken
+seems like everyone else is down too
+I think I've been investigated and they are patching all my methods
+The new weath has really gone the extra mile, there are a ton of anti bot features on the new website too
+they are using a basic anti colour bot on the account screen, and imperva throws some kind of mask over the page after the first page to throw a macro off
+maybe gold is will make a comeback, there is osrs STEAM now too
+oh maybe just rs3
+the economies are linked though
+like the euro and the dollar
+70% of CS grads do not land a CS job
+Guys I can confirm there is a working fix/crack for incapsula
+4 months + and I have done it, so there is at least a way
+still no known selenium crack
+ugh guys I found some useful information
+'Data Scientist
+This is the first evidence I've found of jagex using ML, but it may just have been exploratory research and they still have nothing implemented
+in anycase, adversarial model poisoning might be a solution
+*from cambridge to google...
+also deepmind are mostly focused on videogames too
+very strange jagex were looking at NLP/sentiment analysis... this was for profanity filtering? or chatbot/farming bot detection?
+I am putting pins in my prog before I run a drag net to scrape some stuff I need for a bot
+it's interesting, perhaps a lot more couple be found by looking up ex employees
+maybe they are dumb enough to have open repos of code they used there too
+anyone an expert on "boosting and random forests", I suppose just for classification
+if they are running live ML models they can be poisoned with adversarial attacks
+and also tricked too
+their director of datascience has just a fake certificate that takes 1h on coursera
+they had this guy for nearly a decade
+with an arts degree
+doing their bot detection
+That first one I posted is probably the biggest advance in ml they had, unless she was just lying about montecarlo forecasting
+jacmob is a fraud and admitted liar
+normally datascientists have bs+ms+phd from a tier one, like the first woman
+instead they have a visual artist doing bot detection for nearly a decade
+there are other kinds of bots though
+I think writing a few sql queries will find 90% of bots
+they run a sql query and return the new accounts by account created date
+then go through them, and all the new accounts are screened first
+they do do something like that
+they even mentioned in a tweet they have some 20h or so heuristic
+saying they were surprised someone got around the 20h
+hans tells you your playtime...
+they are tracked it ingame anyway
+I doubt this is suicide...
+I thought that was days
+maybe you're flagged for review but they have 200k ahead of you on the list to review
+they can track playtime /accs per ip
+its just a simple query
+I'm guessing they hold everything in sql tables no...? the entire HS system too
+well does it work...?
+and why are you relying on a player doing the reporting...
+why not scrape the highscores data and run your own ML model tracking xp gains then reporting like that?
+this is really inefficient, most players will never even come into contact with each other, and requires manual tagging. A ML clustering like k means could grab virtually all bots in a weeks worth of scraping the highscores login/play time and xp gains
+lots of people are hiding their bots too and logging out based on wide tile searches so they have logged out before they are even visible to a real player
+since you can detect the entity well before they are visible
+also that tool isn't doing anything jagex don't already have access too and aren't already calculating
+its not free for jagex since they are still manually reviewing
+I was checking linked in and they have a datascience team
+with at least one phd cambridge comp bio who developed some models
+the point of ML is that it will over time be cheaper
+jagex already calculate that same data...
+almost all new accounts are 80-90% bots
+jagex's own numbers show a new account plays on average 4 minutes then never again
+40 minutes for less than 10%
+and something like 0.002% for more than a weeks total in 6 months
+virtually all new accounts are going to be bots once they hit 1-2 hours
+and jagex already run analytics on those accounts for retention
+thats why they sweep those lumbridge areas of bots because they find new players go there
+go to google
+search "linkedin jagex datascience"
+I found at least one person with ml skills who ran a 9 month project
+until I saw that I thought jagex were just offloading everything to a 3rd world team of indians manually banning
+most of jagex's staff can't code and have highschool level maths
+but this one is serious
+no lol
+probably under qualified
+all cambridge phds are dphil
+even STEM
+to run a novel datascience project at scale it does require a phd
+if anything she was underqualified for the position
+this is faux datascience
+you're talking about taking statistics
+or data analysis
+or running some random ml model
+running a linear regression in pandas is not a datascience project
+No real datascientists are under 40 also
+anyway the point is that is pretty definite proof jagex are using ML
+they claimed it back in 2012
+but I think they were lying
+once again a 5 year old can press run on the console
+it doesn't make it datascience
+this is exactly what they have been doing, my data shows it
+they are also running some basic precanned SQL statements
+I guess they have a dashboard
+so the indian guy they hired doesn't even need to write the sql syntax
+I have reversed their algos and models
+and internal operational structure
+with my own datascience
+I have a very good idea
+It's a working model, with error margins of course
+you can probe their detection vectors with adversarial attacks
+and by heavy logging of data
+and running suicide farms against them
+its a datascience project
+its not a single model output
+like you get on your kaggle projects
+you would use systematic variation
+and logging of parameters
+no one over 50 is relevant in cs
+My server works now actually
+I almost have automated ML running on the sql data
+instead of the text files I have storing most of the logs
+It took one day actually
+data stored in sql database
+I store the commands in python juypter notebook
+high level apis are for people who can't code
+and are a crutch and limiting
+you should be as close to the machine code as possible
+It's much cleaner now and can almost cut logs and bank at draynor
+I'm using this for each ground items, inventory objects, npcs, and will maybe add player characters and interface/widget options
+just replacing the "get all"
+its from osbots api
+variable names should be expressive and not need comments
+variable names, functions, class names etc
+because it wasn't throwing on the null check
+because I think its looping over an array of strings like [null, null, null]
+so they are strings of "null" not actually null
+either way I double checked
+and it works now, it returns a random non null entity with non null actions
+the original call returns 5k objects, and most of those have [null, null, null] options
+I think its needed
+the actions are read in as "null" strings
+not the keyword
+if (!onScreenEntitiesArray.get(i).toString().equals("null") && onScreenEntitiesArray.get(i).toString() != null) {
+what if converting it to a string would produce null?
+and if you mess up once it will crash your 48 core machine
+I guess thats what I was thinking
+I was trying to pass on loads of arrays I had fille dwith [null, null, null]
+so I tried everything
+ah yes I see now
+I can just switch the order
+ok can anyone help with my theoretical problem
+how to build a loss function
+I am thinking to read xp gain
+and inventory item value
+and to assign a score to each (entity, interactionString, lossFunctionValue)
+then I can parameter search using those values
+like GP gain
+or xp gain
+yes
+I already have the first part of the tuple anyway
+I just need to compute the outcome
+but what outcome measure should I use
+the first one is conditional
+then I want a guarenteed sleep
+then I want to measure the gain/loss and store it in a tuple
+I think I need to record the "agents" state, and put the values in some kind of data structure
+what structure should I use, I guess I could put things like camera orientation, coordinates, item ID values or strings
+then in my tuple have an agent state, and the loss function
+and the random interact
+I'm doing some exploratory research into the banned of non botted or very minimally prepared accounts, nothing to report yet
+maybe, but I am applying it, so for the most part its not so good to release it
+also people will leak it to jagex
+and uncover/patch more of my methods
+the momentum is for the AGI research
+it is like a parameter to move the statistical model forward by a step
+if you go too small on the parameter it can be more computationally intensive, and you might get stuck in a local minimum
+like your navigation unit getting stuck in a corner of the map
+too large and you risk overshooting the basin of the function you're approximating and reaching an un optimal position on the surface of the function
+if you're trying to find the lowest point and traversing the landscape
+the momentum is how much you step forward
+that is like an example of my idea for how to move the agent
+you want the agent to have some maximum liklihood estimators for the complex function of acquiring gp/xp
+to find those points in the multidimensional landscape you need to search the space
+you take incremental steps and evalute
+the AI hard problem isn't to do with moving the agent in the environment or handling sensory perception
+its to do with the NN integration and algorithms in the neocortex
+osbot handles the sensory perception, object classification, visual perception, motor movement etc
+the unsolved problem lies in intelligently integrating that information
+the human being isn't a hardcoded FSM
+we need to move beyond those methods to better approximate human behaviour
+osbot handles the reading of the visual landscape and pipelining to the central executive
+like how the human visual system, eyes, nerves retina etc pass the information from the environment to the occipital cortex
+but they don't "understand" that information
+and cannot independently act intelligently with it
+for that you need to solve the AI hard problem
+yes, where the agent is, osbot returns the objects in his "view"
+yes exactly
+analogous to the human, the bot sees whats in front of it
+but without the brain to understand that information
+to then understand the game
+it only blindly returns objects
+like some of the lower animals without neocortex
+they "see" their environment but do not understand it
+when the adult human "sees" an object they are integrating that information and running distributed algorithms on it so that the human understands the object
+I have some idea, but this is trivial
+the information density in the neocortex is astronomical compared to the eye+retina+optic nerve
+their system is supposed to not ban human players
+the end game solution is then to simulate that human player
+it may be that I will eventually need to switch to a python/openCV bot like screenclick AI
+but this problem is trivial compared to the ai hard problem
+it is trivial since you have "solved" it and so have osbot devs and many others
+it is a known solution, like all of known mathematics is "trivial"
+relative to the unsolved problems
+Even Turing died without solving the problem
+in technical terms the proofs he supplied are now trivial... since they are known
+also they are tractable and we can check them
+there are another class of problems
+there is a scientific/mathematical meaning of that word
+for me to implement Bernstein–Vazirani algorithm is technically trivial
+since I can look it up and place the symbols
+but for AI hard problems and those millennium problems.... they are not trivial
+so similar to known/simple to implement, public knowledge, or would not require new breakthroughs in science/math that may not even be possible
+something that was difficult to discover or prove may now be considered trivial, that its already been done
