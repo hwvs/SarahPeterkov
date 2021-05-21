@@ -2,7 +2,7 @@
 Markov chain to generate insightful tips from the leading Machine Learning expert Dr. Sarah Peterson's corpus
 
 
-##Example Output
+## Example Output
 ```
 sometimes he wont make it static, but then it catches me when I tried everything
 people are getting banned at this time sieries?
